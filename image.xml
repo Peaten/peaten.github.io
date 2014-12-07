@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+
+<showImage imagePath="images/">
+	<slide image="image1.jpg">image 1</slide>
+</showImage>
