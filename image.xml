@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
-<slideShow imagePath="Slides"/>
+<?xml version="1.0" encoding=utf-8"?>
+<slideshow imagePath="Slides/">
 <slide image="slide1.jpg">Slide 1</slide>
 <slide image="slide2.jpg">Slide 2</slide>
 <slide image="slide3.jpg">Slide 3</slide>
 <slide image="slide4.jpg">Slide 4</slide>
-</slideShow>
+</slideshow>
